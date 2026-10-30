@@ -1,0 +1,551 @@
+order_id,customer_name,email,order_date,delivery_date,product,quantity,price,total,payment_mode,city,feedback
+O170,John Doe,rachel@email.com,2024-04-21,2024-04-30,Laptop,3,300,900,Credit Card,new york,Very Good
+O280,Monica Geller,ross@email.com,2024-11-14,2024-11-24,Keyboard,2,900,1800,credit card,LOS ANGELES,Excellent
+O276,Phoebe Buffay,monica@email.com,2024-03-17,2024-03-19,Laptop,4,120,480,debit card,Boston,
+O057,John Doe,mike@email.com,2024-03-01,2024-03-07,Keyboard,4,45,180,upi,Chicago,
+O275,Gunther Central,jane@email.com,2024-09-26,,Mouse,5,25,125,Debit Card,Boston,
+O277,Ross Geller,ross@email.com,2024-02-05,2024-02-10,Monitor,2,900,1800,debit card,SAN FRANCISCO,Poor
+O004,Phoebe Buffay,rachel@email.com,2024-09-01,2024-09-11,Laptop,5,120,600,UPI,New York,Excellent
+O051,Joey Tribbiani,rachel@email.com,2024-07-22,2024-07-27,Tablet,2,450,900,upi,MIAMI,
+O218,Phoebe Buffay,,2024-06-19,2024-06-27,Earphones,1,120,120,upi,san francisco,Fair
+O258,Jane Doe,emily@email.com,2024-06-09,,Monitor,4,25,100,Credit Card,NEW YORK,Check data
+O138,Gunther Central,jane@email.com,2024-12-14,2024-12-23,Tablet,4,45,180,PayPal,houston,
+O213,Joey Tribbiani,jane@email.com,2024-02-09,2024-02-16,Webcam,3,450,1350,Credit Card,los angeles,Fair
+O298,Ross Geller,gunther@email.com,2024-12-21,2024-12-23,Earphones,2,120,240,upi,san francisco,
+O098,Monica Geller,jane@email.com,2024-03-24,2024-04-03,Headphones,3,900,2700,CASH,chicago,Fair
+O293,Rachel Green,phoebe@email.com,2024-08-02,2024-08-12,Keyboard,4,900,3600,Cash,new york,
+O297,Chandler Bing,jane@email.com,2024-04-16,2024-04-24,Headphones,5,120,600,Debit Card,SAN FRANCISCO,Good
+O025,Emily Waltham,,2024-06-25,2024-07-03,Webcam,3,750,2250,UPI,houston,Excellent
+O242,Mike Ross,chandler@email.com,2024-06-27,,Earphones,5,70,350,CASH,CHICAGO,Very Good
+O261,Joey Tribbiani,jane@email.com,2024-05-24,2024-05-29,Mouse,2,45,90,credit card,seattle,Good
+O134,Chandler Bing,gunther@email.com,2024-03-24,2024-03-26,Laptop,2,70,140,CASH,new york,
+O028,Monica Geller,rachel@email.com,2024-08-28,2024-09-06,Tablet,4,750,3000,Cash,seattle,Good
+O165,Phoebe Buffay,chandler@email.com,2024-06-16,2024-06-20,Keyboard,1,900,900,credit card,MIAMI,
+O264,Emily Waltham,jane@email.com,2024-07-08,2024-07-12,Headphones,2,120,240,CASH,New York,
+O160,Mike Ross,phoebe@email.com,2024-09-29,2024-10-03,Tablet,2,750,1500,UPI,San Francisco,Excellent
+O126,Joey Tribbiani,rachel@email.com,2024-01-09,2024-01-19,Earphones,1,70,70,Debit Card,Miami,Excellent
+O011,Jane Doe,monica@email.com,2024-06-10,2024-06-18,Monitor,2,750,1500,Credit Card,los angeles,Fair
+O183,Rachel Green,john@email.com,2024-03-06,2024-03-10,Tablet,5,70,350,UPI,New York,Check data
+O117,Gunther Central,gunther@email.com,2024-11-27,,Tablet,4,900,3600,PayPal,HOUSTON,Check data
+O150,Chandler Bing,rachel@email.com,2024-07-01,2024-07-11,Monitor,2,70,140,debit card,Chicago,Very Good
+O232,Phoebe Buffay,rachel@email.com,2024-07-28,,Keyboard,2,70,140,debit card,San Francisco,Very Good
+O240,Mike Ross,rachel@email.com,2024-08-02,2024-08-12,Keyboard,4,900,3600,Credit Card,Los Angeles,Excellent
+O287,John Doe,joey@email.com,2024-06-11,,Monitor,5,450,2250,UPI,houston,Check data
+O026,John Doe,monica@email.com,2024-02-16,,Laptop,1,450,450,Credit Card,miami,Good
+O099,Joey Tribbiani,jane@email.com,2024-08-20,2024-08-27,Keyboard,4,70,280,PayPal,Los Angeles,Poor
+O085,Jane Doe,jane@email.com,2024-01-09,2024-01-11,Headphones,3,900,2700,upi,CHICAGO,Excellent
+O074,Mike Ross,monica@email.com,2024-11-20,2024-11-27,Monitor,4,120,480,UPI,Houston,
+O173,Rachel Green,ross@email.com,2024-09-01,2024-09-07,Headphones,4,750,3000,Cash,miami,Good
+O034,Monica Geller,ross@email.com,2024-12-16,2024-12-24,Laptop,4,300,1200,credit card,Boston,Fair
+O083,Rachel Green,john@email.com,2024-07-05,2024-07-15,Keyboard,3,25,75,UPI,houston,Good
+O046,Phoebe Buffay,emily@email.com,2024-07-01,2024-07-08,Earphones,3,120,360,Debit Card,SAN FRANCISCO,
+O243,Mike Ross,gunther@email.com,2024-08-30,,Earphones,,120,,credit card,san francisco,Poor
+O238,Chandler Bing,mike@email.com,2024-04-24,2024-04-30,Monitor,5,750,3750,Cash,Chicago,Poor
+O132,Ross Geller,john@email.com,2024-06-04,2024-06-08,Laptop,2,70,140,Credit Card,Boston,Very Good
+O048,John Doe,monica@email.com,2024-03-03,2024-03-11,Headphones,1,70,70,Cash,San Francisco,Check data
+O170,Emily Waltham,ross@email.com,2024-02-21,2024-03-02,Earphones,4,25,100,credit card,LOS ANGELES,
+O101,Mike Ross,ross@email.com,2024-03-07,,Headphones,3,450,1350,Cash,Los Angeles,Fair
+O106,Jane Doe,monica@email.com,2024-04-16,2024-04-26,Tablet,4,45,180,PayPal,Houston,
+O276,Phoebe Buffay,jane@email.com,2024-03-29,2024-04-08,Headphones,3,300,900,Credit Card,Los Angeles,Check data
+O220,Chandler Bing,phoebe@email.com,2024-09-07,2024-09-13,Webcam,2,70,140,Debit Card,SEATTLE,
+O182,Gunther Central,,2024-12-24,2024-12-27,Laptop,2,45,90,PayPal,HOUSTON,Check data
+O088,Emily Waltham,rachel@email.com,2024-04-15,2024-04-20,Webcam,3,120,360,Cash,HOUSTON,Very Good
+O123,Jane Doe,jane@email.com,2024-11-10,2024-11-17,Headphones,1,45,45,credit card,SEATTLE,Excellent
+O052,Joey Tribbiani,monica@email.com,2024-06-27,2024-06-30,Monitor,1,750,750,credit card,houston,
+O141,Phoebe Buffay,rachel@email.com,2024-12-11,2024-12-17,Earphones,3,450,1350,upi,MIAMI,Check data
+O102,John Doe,monica@email.com,2024-11-15,2024-11-18,Laptop,5,45,225,upi,New York,
+O149,Gunther Central,ross@email.com,2024-05-26,2024-05-30,Earphones,1,900,900,PayPal,CHICAGO,Poor
+O060,John Doe,chandler@email.com,2024-03-30,2024-04-03,Laptop,1,900,900,debit card,SEATTLE,Poor
+O086,Gunther Central,monica@email.com,2024-03-25,2024-04-04,Keyboard,1,120,120,Debit Card,seattle,
+O087,Emily Waltham,mike@email.com,2024-02-20,2024-02-25,Keyboard,4,450,1800,Credit Card,SAN FRANCISCO,Good
+O040,Monica Geller,rachel@email.com,2024-07-06,2024-07-16,Tablet,5,70,350,Credit Card,chicago,Good
+O080,Jane Doe,,2024-10-30,,Monitor,5,120,600,PayPal,MIAMI,
+O300,Monica Geller,gunther@email.com,2024-09-23,2024-09-27,Mouse,5,70,350,Credit Card,Los Angeles,Check data
+O249,Rachel Green,rachel@email.com,2024-09-04,2024-09-12,Laptop,3,900,2700,PayPal,San Francisco,Good
+O224,Monica Geller,jane@email.com,2024-01-22,2024-01-28,Mouse,2,25,50,Debit Card,houston,
+O141,Rachel Green,emily@email.com,2024-12-06,2024-12-12,Mouse,3,45,135,Cash,Los Angeles,Excellent
+O275,Jane Doe,mike@email.com,2024-01-18,2024-01-27,Earphones,3,25,75,CASH,miami,Check data
+O277,Ross Geller,mike@email.com,2024-11-21,2024-11-29,Earphones,5,450,2250,Cash,NEW YORK,Good
+O083,John Doe,emily@email.com,2024-12-14,2024-12-19,Headphones,4,25,100,UPI,boston,Fair
+O229,John Doe,mike@email.com,2024-11-07,2024-11-14,Tablet,4,300,1200,debit card,houston,Good
+O038,Monica Geller,ross@email.com,2024-05-08,,Monitor,3,300,900,credit card,Houston,Very Good
+O181,Gunther Central,jane@email.com,2024-08-27,2024-09-03,Monitor,,750,,upi,HOUSTON,Good
+O171,Monica Geller,rachel@email.com,2024-10-21,2024-10-26,Keyboard,2,750,1500,credit card,NEW YORK,
+O054,John Doe,mike@email.com,2024-02-05,2024-02-11,Laptop,,450,,Debit Card,SAN FRANCISCO,Good
+O270,Phoebe Buffay,jane@email.com,2024-06-08,2024-06-12,Webcam,1,300,300,debit card,NEW YORK,Fair
+O173,Chandler Bing,chandler@email.com,2024-11-09,2024-11-15,Webcam,5,70,350,PayPal,new york,Check data
+O127,Mike Ross,chandler@email.com,2024-07-22,,Headphones,2,450,900,credit card,san francisco,Good
+O180,Rachel Green,mike@email.com,2024-09-30,2024-10-03,Headphones,2,70,140,Credit Card,BOSTON,Good
+O086,Monica Geller,rachel@email.com,2024-03-20,2024-03-24,Keyboard,2,750,1500,UPI,Seattle,Excellent
+O263,Rachel Green,joey@email.com,2024-11-16,2024-11-26,Earphones,2,120,240,Debit Card,San Francisco,Excellent
+O231,Mike Ross,joey@email.com,2024-05-09,2024-05-14,Mouse,3,120,360,debit card,CHICAGO,Fair
+O135,Rachel Green,emily@email.com,2024-04-20,2024-04-26,Keyboard,3,70,210,credit card,HOUSTON,Very Good
+O160,Chandler Bing,emily@email.com,2024-07-09,2024-07-19,Mouse,3,70,210,UPI,Boston,Excellent
+O297,Jane Doe,gunther@email.com,2024-11-05,2024-11-13,Webcam,5,300,1500,credit card,NEW YORK,Excellent
+O080,Chandler Bing,joey@email.com,2024-07-29,2024-08-04,Laptop,3,300,900,CASH,SAN FRANCISCO,Check data
+O224,Emily Waltham,phoebe@email.com,2024-05-22,2024-05-31,Monitor,4,70,280,credit card,los angeles,Poor
+O201,Monica Geller,chandler@email.com,2024-12-02,2024-12-04,Tablet,4,25,100,UPI,Miami,Poor
+O281,Ross Geller,,2024-12-30,2025-01-07,Webcam,4,300,1200,Cash,MIAMI,Poor
+O145,Rachel Green,mike@email.com,2024-05-31,2024-06-07,Webcam,2,45,90,CASH,houston,Fair
+O121,Monica Geller,john@email.com,2024-03-03,2024-03-09,Monitor,2,25,50,upi,LOS ANGELES,Check data
+O217,Chandler Bing,monica@email.com,2024-07-29,2024-08-03,Keyboard,2,120,240,Cash,seattle,
+O019,Chandler Bing,rachel@email.com,2024-05-13,2024-05-17,Headphones,1,70,70,CASH,Seattle,Fair
+O015,Ross Geller,joey@email.com,2024-09-27,2024-10-01,Monitor,2,120,240,debit card,SAN FRANCISCO,
+O034,John Doe,gunther@email.com,2024-02-22,2024-02-25,Earphones,,25,,upi,Seattle,Check data
+O124,Mike Ross,john@email.com,2024-03-02,2024-03-05,Mouse,5,70,350,debit card,Boston,
+O031,Emily Waltham,phoebe@email.com,2024-10-15,2024-10-23,Mouse,3,450,1350,UPI,boston,Excellent
+O187,Gunther Central,emily@email.com,2024-02-14,2024-02-19,Webcam,1,750,750,credit card,boston,Fair
+O293,John Doe,mike@email.com,2024-01-21,2024-01-25,Monitor,5,750,3750,upi,chicago,Poor
+O216,Joey Tribbiani,ross@email.com,2024-05-28,2024-05-31,Keyboard,4,750,3000,debit card,NEW YORK,Excellent
+O288,Phoebe Buffay,ross@email.com,2024-05-08,2024-05-17,Tablet,4,300,1200,CASH,MIAMI,Good
+O059,Monica Geller,joey@email.com,2024-06-07,,Monitor,1,45,45,Cash,Houston,Very Good
+O298,Joey Tribbiani,joey@email.com,2024-07-12,2024-07-22,Webcam,3,750,2250,Cash,new york,Check data
+O071,Chandler Bing,ross@email.com,2024-02-11,,Mouse,3,70,210,UPI,Los Angeles,Poor
+O104,Joey Tribbiani,ross@email.com,2024-02-02,2024-02-11,Laptop,2,300,600,Credit Card,Boston,Good
+O215,Jane Doe,joey@email.com,2024-02-01,2024-02-06,Tablet,5,300,1500,credit card,SEATTLE,Good
+O084,Emily Waltham,jane@email.com,2024-12-13,2024-12-16,Laptop,2,45,90,debit card,new york,Very Good
+O101,Gunther Central,gunther@email.com,2024-03-30,2024-04-02,Headphones,2,750,1500,debit card,New York,Very Good
+O007,Gunther Central,phoebe@email.com,2024-05-11,2024-05-21,Mouse,3,900,2700,UPI,MIAMI,
+O118,Gunther Central,john@email.com,2024-03-13,2024-03-20,Laptop,3,900,2700,PayPal,Houston,Good
+O114,Chandler Bing,joey@email.com,2024-01-30,2024-02-06,Webcam,1,750,750,Credit Card,Houston,Very Good
+O176,Chandler Bing,emily@email.com,2024-01-24,2024-01-28,Tablet,5,120,600,UPI,houston,Check data
+O034,Jane Doe,ross@email.com,2024-10-25,2024-11-02,Webcam,4,300,1200,UPI,SEATTLE,Fair
+O263,John Doe,ross@email.com,2024-04-22,2024-04-28,Webcam,5,300,1500,UPI,houston,Excellent
+O006,Monica Geller,monica@email.com,2024-04-16,2024-04-22,Earphones,1,900,900,upi,boston,Good
+O272,Gunther Central,rachel@email.com,2024-02-07,2024-02-12,Mouse,5,450,2250,credit card,SAN FRANCISCO,Fair
+O074,John Doe,jane@email.com,2024-01-30,2024-02-09,Headphones,1,300,300,credit card,houston,Check data
+O237,Ross Geller,mike@email.com,2024-11-10,2024-11-18,Webcam,2,300,600,Cash,houston,Fair
+O082,Emily Waltham,joey@email.com,2024-03-20,2024-03-24,Mouse,3,300,900,CASH,HOUSTON,Good
+O264,Jane Doe,ross@email.com,2024-08-07,2024-08-09,Mouse,5,750,3750,upi,LOS ANGELES,Very Good
+O200,Jane Doe,john@email.com,2024-08-31,2024-09-08,Tablet,3,300,900,Credit Card,San Francisco,Check data
+O268,Gunther Central,jane@email.com,2024-12-31,2025-01-03,Earphones,5,750,3750,debit card,Chicago,Fair
+O247,Rachel Green,phoebe@email.com,2024-08-21,2024-08-26,Earphones,4,750,3000,CASH,BOSTON,Poor
+O205,Jane Doe,jane@email.com,2024-06-01,2024-06-07,Mouse,2,300,600,credit card,boston,
+O039,Emily Waltham,john@email.com,2024-05-14,,Laptop,,450,,UPI,Chicago,
+O188,Jane Doe,emily@email.com,2024-03-24,2024-03-28,Laptop,4,45,180,debit card,NEW YORK,
+O065,Rachel Green,mike@email.com,2024-04-17,,Headphones,3,750,2250,PayPal,MIAMI,
+O019,Chandler Bing,john@email.com,2024-01-24,2024-01-29,Tablet,5,70,350,credit card,New York,Excellent
+O129,Chandler Bing,john@email.com,2024-08-07,2024-08-09,Mouse,2,450,900,CASH,boston,Poor
+O031,John Doe,rachel@email.com,2024-08-12,2024-08-21,Webcam,3,45,135,debit card,San Francisco,
+O016,Joey Tribbiani,monica@email.com,2024-04-12,2024-04-20,Monitor,2,25,50,credit card,Houston,Excellent
+O051,John Doe,gunther@email.com,2024-09-27,2024-10-01,Laptop,3,45,135,CASH,los angeles,
+O234,Chandler Bing,phoebe@email.com,2024-04-17,2024-04-25,Earphones,5,25,125,credit card,SEATTLE,Check data
+O265,Rachel Green,monica@email.com,2024-10-28,2024-11-01,Mouse,1,900,900,debit card,HOUSTON,Very Good
+O204,Ross Geller,gunther@email.com,2024-08-14,2024-08-17,Keyboard,,120,,PayPal,san francisco,Good
+O109,Emily Waltham,joey@email.com,2024-08-30,2024-09-05,Laptop,4,300,1200,UPI,NEW YORK,Check data
+O206,Jane Doe,mike@email.com,2024-08-06,2024-08-09,Tablet,3,70,210,PayPal,houston,
+O123,Phoebe Buffay,emily@email.com,2024-05-12,2024-05-19,Webcam,4,300,1200,upi,seattle,
+O260,Mike Ross,,2024-10-06,2024-10-10,Tablet,4,25,100,Debit Card,houston,Check data
+O296,Jane Doe,emily@email.com,2024-01-13,2024-01-20,Webcam,5,450,2250,debit card,LOS ANGELES,Fair
+O176,Monica Geller,john@email.com,2024-08-16,2024-08-18,Laptop,4,25,100,debit card,new york,Excellent
+O086,Phoebe Buffay,gunther@email.com,2024-03-07,2024-03-12,Tablet,3,900,2700,debit card,seattle,
+O038,Monica Geller,chandler@email.com,2024-09-30,2024-10-05,Webcam,2,45,90,CASH,Houston,Good
+O189,Jane Doe,john@email.com,2024-12-03,2024-12-06,Webcam,5,70,350,UPI,chicago,Good
+O018,Jane Doe,john@email.com,2024-12-10,2024-12-12,Monitor,1,450,450,Debit Card,New York,Check data
+O068,Monica Geller,john@email.com,2024-04-11,2024-04-17,Earphones,,70,,PayPal,CHICAGO,Fair
+O195,John Doe,monica@email.com,2024-05-04,2024-05-07,Mouse,5,750,3750,Debit Card,MIAMI,Very Good
+O268,Mike Ross,mike@email.com,2024-09-17,2024-09-26,Mouse,1,120,120,upi,New York,Excellent
+O159,Ross Geller,john@email.com,2024-03-16,2024-03-19,Mouse,3,750,2250,credit card,NEW YORK,Check data
+O095,Mike Ross,jane@email.com,2024-05-04,2024-05-14,Monitor,5,25,125,PayPal,Chicago,Excellent
+O262,Jane Doe,monica@email.com,2024-11-10,2024-11-15,Laptop,2,120,240,debit card,CHICAGO,Poor
+O241,Emily Waltham,jane@email.com,2024-06-19,,Earphones,1,450,450,debit card,san francisco,Check data
+O122,John Doe,john@email.com,2024-03-17,2024-03-26,Webcam,2,750,1500,credit card,LOS ANGELES,Fair
+O210,Mike Ross,,2024-03-09,2024-03-16,Laptop,4,45,180,CASH,chicago,
+O267,Monica Geller,gunther@email.com,2024-06-24,2024-07-03,Monitor,1,450,450,PayPal,new york,Good
+O285,Emily Waltham,ross@email.com,2024-07-24,2024-07-27,Keyboard,1,750,750,Credit Card,SAN FRANCISCO,
+O062,John Doe,jane@email.com,2024-05-09,2024-05-13,Laptop,5,120,600,credit card,Miami,Poor
+O027,Ross Geller,jane@email.com,2024-12-03,2024-12-10,Mouse,2,450,900,debit card,CHICAGO,
+O191,Emily Waltham,chandler@email.com,2024-01-29,2024-02-05,Laptop,3,70,210,Debit Card,Boston,Poor
+O223,Gunther Central,rachel@email.com,2024-07-18,2024-07-25,Laptop,5,900,4500,UPI,HOUSTON,Very Good
+O057,Jane Doe,rachel@email.com,2024-08-29,2024-09-07,Headphones,1,70,70,Credit Card,New York,Excellent
+O233,Chandler Bing,emily@email.com,2024-12-20,2024-12-23,Headphones,3,750,2250,Cash,New York,
+O108,Chandler Bing,joey@email.com,2024-07-13,,Tablet,4,120,480,credit card,BOSTON,Check data
+O186,Joey Tribbiani,rachel@email.com,2024-07-26,2024-08-01,Tablet,3,900,2700,CASH,miami,Check data
+O240,Jane Doe,monica@email.com,2024-03-04,2024-03-12,Tablet,1,120,120,credit card,HOUSTON,Good
+O159,Chandler Bing,chandler@email.com,2024-12-26,2024-12-31,Monitor,3,70,210,credit card,San Francisco,
+O141,Mike Ross,ross@email.com,2024-11-12,2024-11-18,Tablet,5,900,4500,credit card,miami,Good
+O223,Gunther Central,emily@email.com,2024-03-09,2024-03-17,Tablet,5,750,3750,upi,chicago,Fair
+O238,Joey Tribbiani,,2024-10-18,2024-10-20,Headphones,5,450,2250,upi,Boston,
+O146,Gunther Central,john@email.com,2024-07-17,,Mouse,4,45,180,Debit Card,CHICAGO,Very Good
+O219,Mike Ross,jane@email.com,2024-05-24,2024-05-31,Webcam,1,25,25,Debit Card,New York,
+O296,Rachel Green,phoebe@email.com,2024-04-25,2024-05-01,Webcam,,120,,PayPal,boston,Excellent
+O216,John Doe,monica@email.com,2024-01-18,2024-01-26,Earphones,2,70,140,Debit Card,seattle,Check data
+O242,Phoebe Buffay,chandler@email.com,2024-11-01,2024-11-04,Earphones,4,70,280,Debit Card,Miami,Good
+O159,John Doe,john@email.com,2024-08-19,2024-08-21,Mouse,2,25,50,Credit Card,MIAMI,
+O278,Jane Doe,jane@email.com,2024-05-11,2024-05-20,Monitor,,45,,Cash,Houston,Fair
+O020,John Doe,monica@email.com,2024-12-07,2024-12-15,Mouse,4,900,3600,CASH,san francisco,Very Good
+O155,Ross Geller,chandler@email.com,2024-11-19,2024-11-23,Webcam,1,450,450,credit card,los angeles,
+O137,Mike Ross,ross@email.com,2024-08-19,2024-08-23,Monitor,3,900,2700,UPI,New York,Check data
+O023,Chandler Bing,monica@email.com,2024-02-24,2024-02-27,Mouse,3,300,900,Debit Card,Los Angeles,Poor
+O026,Gunther Central,joey@email.com,2024-12-31,2025-01-04,Laptop,3,900,2700,CASH,seattle,Fair
+O168,Ross Geller,monica@email.com,2024-12-26,,Monitor,3,45,135,UPI,CHICAGO,Good
+O074,Phoebe Buffay,monica@email.com,2024-01-26,2024-01-29,Earphones,3,900,2700,CASH,LOS ANGELES,Excellent
+O190,Joey Tribbiani,rachel@email.com,2024-03-29,2024-04-04,Earphones,5,450,2250,PayPal,Houston,Very Good
+O270,John Doe,,2024-01-06,2024-01-08,Laptop,3,900,2700,UPI,MIAMI,Very Good
+O212,Rachel Green,monica@email.com,2024-10-21,2024-10-28,Tablet,3,450,1350,upi,SAN FRANCISCO,
+O194,Chandler Bing,emily@email.com,2024-06-04,2024-06-07,Keyboard,1,45,45,Cash,SAN FRANCISCO,Very Good
+O123,Monica Geller,ross@email.com,2024-10-27,2024-10-31,Headphones,4,70,280,Credit Card,NEW YORK,Check data
+O231,Jane Doe,ross@email.com,2024-12-12,2024-12-21,Mouse,4,45,180,upi,HOUSTON,Fair
+O022,John Doe,mike@email.com,2024-06-09,2024-06-13,Headphones,4,900,3600,Debit Card,san francisco,
+O256,Chandler Bing,chandler@email.com,2024-08-08,2024-08-10,Webcam,3,900,2700,UPI,NEW YORK,Fair
+O025,Joey Tribbiani,mike@email.com,2024-04-14,2024-04-16,Webcam,2,45,90,Credit Card,BOSTON,Excellent
+O094,Emily Waltham,john@email.com,2024-03-23,2024-03-30,Keyboard,1,900,900,UPI,seattle,Good
+O209,Joey Tribbiani,jane@email.com,2024-08-31,2024-09-03,Keyboard,5,450,2250,Debit Card,boston,Very Good
+O004,Joey Tribbiani,chandler@email.com,2024-09-30,2024-10-08,Earphones,2,70,140,upi,boston,Good
+O052,Mike Ross,ross@email.com,2024-02-23,2024-03-02,Headphones,2,450,900,credit card,BOSTON,Very Good
+O265,Phoebe Buffay,joey@email.com,2024-09-21,,Mouse,2,120,240,PayPal,los angeles,Fair
+O086,Mike Ross,ross@email.com,2024-12-10,2024-12-12,Laptop,3,70,210,credit card,HOUSTON,Very Good
+O250,John Doe,gunther@email.com,2024-11-15,2024-11-20,Keyboard,4,450,1800,Credit Card,LOS ANGELES,
+O148,Ross Geller,monica@email.com,2024-06-23,2024-06-30,Mouse,4,450,1800,UPI,San Francisco,Poor
+O158,Joey Tribbiani,chandler@email.com,2024-02-15,2024-02-21,Monitor,5,300,1500,debit card,MIAMI,
+O144,Mike Ross,phoebe@email.com,2024-05-30,2024-06-06,Laptop,2,900,1800,UPI,Seattle,Excellent
+O004,John Doe,mike@email.com,2024-06-13,2024-06-21,Monitor,2,70,140,upi,SEATTLE,Good
+O207,Rachel Green,rachel@email.com,2024-05-14,2024-05-19,Monitor,2,750,1500,Credit Card,Chicago,Check data
+O175,Chandler Bing,chandler@email.com,2024-02-08,2024-02-12,Monitor,1,70,70,PayPal,New York,Poor
+O111,Rachel Green,john@email.com,2024-05-11,2024-05-15,Laptop,4,900,3600,Cash,HOUSTON,Excellent
+O102,Monica Geller,jane@email.com,2024-09-18,2024-09-26,Keyboard,,45,,Cash,Seattle,Good
+O192,Joey Tribbiani,john@email.com,2024-03-26,2024-04-04,Earphones,5,120,600,Credit Card,Boston,Check data
+O031,Rachel Green,emily@email.com,2024-08-24,2024-08-29,Monitor,1,70,70,UPI,boston,Excellent
+O031,Rachel Green,mike@email.com,2024-10-23,2024-10-30,Tablet,5,450,2250,credit card,New York,
+O216,Joey Tribbiani,mike@email.com,2024-02-20,2024-02-29,Laptop,3,70,210,UPI,SAN FRANCISCO,Check data
+O046,Emily Waltham,gunther@email.com,2024-01-27,,Webcam,5,750,3750,CASH,NEW YORK,Excellent
+O001,Chandler Bing,ross@email.com,2024-07-18,2024-07-20,Laptop,3,900,2700,credit card,boston,Poor
+O218,Jane Doe,emily@email.com,2024-03-16,2024-03-21,Keyboard,4,70,280,UPI,Boston,Poor
+O073,Mike Ross,monica@email.com,2024-12-26,2025-01-04,Tablet,2,45,90,debit card,New York,Good
+O045,Mike Ross,chandler@email.com,2024-12-30,2025-01-07,Earphones,3,120,360,PayPal,MIAMI,Excellent
+O200,Monica Geller,joey@email.com,2024-01-10,2024-01-14,Tablet,3,70,210,upi,Boston,
+O156,Joey Tribbiani,john@email.com,2024-10-27,2024-11-01,Keyboard,3,45,135,PayPal,seattle,Check data
+O016,Mike Ross,,2024-02-13,2024-02-19,Tablet,5,45,225,PayPal,los angeles,Check data
+O012,Mike Ross,phoebe@email.com,2024-10-24,2024-10-29,Headphones,3,450,1350,credit card,san francisco,Very Good
+O153,Jane Doe,rachel@email.com,2024-11-28,,Mouse,3,900,2700,Cash,chicago,Excellent
+O002,Ross Geller,phoebe@email.com,2024-12-21,2024-12-28,Mouse,2,900,1800,Credit Card,boston,Very Good
+O254,Rachel Green,rachel@email.com,2024-01-21,2024-01-30,Webcam,3,450,1350,credit card,miami,Poor
+O183,Emily Waltham,phoebe@email.com,2024-04-19,2024-04-28,Mouse,5,750,3750,upi,Seattle,
+O055,Mike Ross,chandler@email.com,2024-10-24,2024-10-29,Earphones,1,300,300,upi,Boston,Excellent
+O033,Emily Waltham,gunther@email.com,2024-05-12,2024-05-14,Monitor,2,900,1800,Credit Card,san francisco,Good
+O009,Rachel Green,ross@email.com,2024-08-16,,Webcam,2,750,1500,PayPal,HOUSTON,Good
+O169,Mike Ross,gunther@email.com,2024-01-02,2024-01-06,Tablet,5,300,1500,Cash,Los Angeles,Fair
+O228,Mike Ross,ross@email.com,2024-01-29,2024-02-07,Headphones,1,300,300,Credit Card,Seattle,
+O132,Gunther Central,monica@email.com,2024-05-31,2024-06-07,Mouse,4,450,1800,debit card,San Francisco,
+O106,Rachel Green,john@email.com,2024-11-01,2024-11-05,Tablet,1,900,900,upi,chicago,Fair
+O263,Emily Waltham,jane@email.com,2024-10-12,2024-10-22,Earphones,4,450,1800,credit card,Chicago,Excellent
+O043,Emily Waltham,rachel@email.com,2024-12-01,2024-12-03,Earphones,4,450,1800,Credit Card,Los Angeles,
+O034,Joey Tribbiani,phoebe@email.com,2024-04-09,2024-04-18,Mouse,5,750,3750,debit card,HOUSTON,Excellent
+O262,Mike Ross,gunther@email.com,2024-01-19,2024-01-22,Monitor,,70,,Cash,seattle,
+O106,John Doe,mike@email.com,2024-11-04,2024-11-08,Monitor,2,70,140,Credit Card,SEATTLE,Good
+O086,Rachel Green,monica@email.com,2024-02-04,2024-02-14,Mouse,,900,,credit card,MIAMI,Check data
+O147,Gunther Central,ross@email.com,2024-03-20,2024-03-25,Earphones,3,450,1350,Cash,Boston,Excellent
+O014,Emily Waltham,gunther@email.com,2024-12-29,2024-12-31,Mouse,2,45,90,Cash,San Francisco,
+O048,Phoebe Buffay,emily@email.com,2024-06-18,2024-06-21,Keyboard,5,120,600,credit card,miami,Check data
+O266,Chandler Bing,gunther@email.com,2024-09-19,2024-09-28,Earphones,4,450,1800,debit card,los angeles,Poor
+O296,Gunther Central,monica@email.com,2024-04-30,2024-05-08,Webcam,3,70,210,upi,SAN FRANCISCO,Very Good
+O139,Monica Geller,emily@email.com,2024-11-02,2024-11-05,Mouse,3,70,210,Cash,SEATTLE,Poor
+O096,John Doe,mike@email.com,2024-05-22,2024-05-25,Laptop,2,750,1500,UPI,new york,Very Good
+O183,Ross Geller,monica@email.com,2024-05-16,2024-05-23,Webcam,5,70,350,UPI,Miami,
+O202,Phoebe Buffay,joey@email.com,2024-04-19,2024-04-26,Webcam,3,300,900,credit card,boston,Fair
+O242,Gunther Central,phoebe@email.com,2024-09-09,2024-09-19,Headphones,2,45,90,UPI,LOS ANGELES,Very Good
+O148,Monica Geller,gunther@email.com,2024-04-22,,Laptop,5,900,4500,Credit Card,Houston,Poor
+O175,Emily Waltham,chandler@email.com,2024-05-02,2024-05-07,Keyboard,5,120,600,Cash,SEATTLE,Poor
+O207,Chandler Bing,joey@email.com,2024-02-28,2024-03-04,Mouse,,750,,upi,miami,Very Good
+O024,Monica Geller,joey@email.com,2024-05-07,2024-05-15,Webcam,5,450,2250,PayPal,Miami,Check data
+O120,Ross Geller,emily@email.com,2024-10-31,2024-11-09,Keyboard,4,300,1200,debit card,Seattle,Check data
+O144,Phoebe Buffay,rachel@email.com,2024-09-28,2024-10-06,Monitor,4,120,480,Credit Card,boston,Good
+O294,Monica Geller,rachel@email.com,2024-04-13,2024-04-23,Laptop,5,25,125,Debit Card,san francisco,Poor
+O228,Monica Geller,joey@email.com,2024-09-05,2024-09-15,Tablet,1,45,45,Debit Card,los angeles,Poor
+O268,Phoebe Buffay,ross@email.com,2024-05-25,,Webcam,2,45,90,Cash,SEATTLE,
+O255,Rachel Green,john@email.com,2024-07-12,2024-07-22,Mouse,3,45,135,upi,chicago,Check data
+O232,Emily Waltham,gunther@email.com,2024-02-04,2024-02-14,Laptop,3,120,360,debit card,san francisco,Very Good
+O187,Joey Tribbiani,,2024-10-19,2024-10-28,Keyboard,5,900,4500,Debit Card,Miami,Excellent
+O012,Ross Geller,joey@email.com,2024-10-04,2024-10-11,Earphones,,45,,upi,Miami,Fair
+O263,Rachel Green,joey@email.com,2024-05-08,2024-05-12,Tablet,2,70,140,UPI,San Francisco,Fair
+O181,Chandler Bing,gunther@email.com,2024-12-25,2024-12-29,Mouse,4,750,3000,credit card,new york,Excellent
+O119,Chandler Bing,rachel@email.com,2024-06-12,2024-06-22,Keyboard,2,25,50,PayPal,San Francisco,
+O205,Joey Tribbiani,emily@email.com,2024-03-02,,Mouse,2,120,240,Debit Card,new york,Good
+O103,John Doe,john@email.com,2024-09-18,2024-09-25,Earphones,1,750,750,credit card,San Francisco,Fair
+O091,Phoebe Buffay,emily@email.com,2024-10-25,2024-11-03,Monitor,5,450,2250,Cash,chicago,Check data
+O207,John Doe,,2024-12-09,2024-12-13,Webcam,,45,,debit card,San Francisco,
+O044,Rachel Green,phoebe@email.com,2024-11-13,2024-11-20,Tablet,4,300,1200,Credit Card,MIAMI,
+O019,John Doe,phoebe@email.com,2024-03-10,2024-03-14,Headphones,5,450,2250,Credit Card,Seattle,Poor
+O059,Jane Doe,john@email.com,2024-03-21,2024-03-25,Earphones,5,45,225,debit card,houston,Excellent
+O090,Phoebe Buffay,,2024-02-02,2024-02-12,Tablet,1,750,750,Credit Card,los angeles,Poor
+O068,Rachel Green,joey@email.com,2024-12-02,2024-12-12,Mouse,5,900,4500,CASH,los angeles,Very Good
+O066,Joey Tribbiani,gunther@email.com,2024-12-03,2024-12-11,Tablet,2,450,900,Credit Card,New York,Fair
+O153,Jane Doe,emily@email.com,2024-07-26,2024-08-02,Monitor,2,25,50,debit card,seattle,
+O120,Jane Doe,gunther@email.com,2024-01-17,2024-01-20,Webcam,5,750,3750,debit card,houston,Very Good
+O253,Chandler Bing,joey@email.com,2024-01-10,2024-01-12,Tablet,1,750,750,debit card,Miami,Excellent
+O283,Ross Geller,emily@email.com,2024-08-28,2024-09-06,Monitor,2,120,240,debit card,Boston,Very Good
+O154,Chandler Bing,emily@email.com,2024-06-25,2024-06-29,Webcam,4,300,1200,UPI,SAN FRANCISCO,Very Good
+O295,John Doe,jane@email.com,2024-04-05,2024-04-13,Monitor,1,300,300,CASH,miami,Good
+O230,Monica Geller,rachel@email.com,2024-07-12,2024-07-14,Laptop,,900,,UPI,seattle,Excellent
+O234,Gunther Central,emily@email.com,2024-02-03,2024-02-06,Laptop,3,450,1350,PayPal,san francisco,Check data
+O202,Monica Geller,chandler@email.com,2024-01-30,,Headphones,1,750,750,PayPal,Boston,Poor
+O261,Jane Doe,ross@email.com,2024-10-06,2024-10-09,Tablet,3,900,2700,UPI,chicago,Very Good
+O294,Gunther Central,ross@email.com,2024-11-25,2024-11-29,Headphones,4,900,3600,upi,chicago,Poor
+O269,Joey Tribbiani,jane@email.com,2024-08-14,2024-08-23,Laptop,5,120,600,debit card,BOSTON,
+O156,Jane Doe,gunther@email.com,2024-01-11,2024-01-13,Laptop,5,45,225,PayPal,new york,
+O029,Phoebe Buffay,emily@email.com,2024-03-03,2024-03-07,Keyboard,2,45,90,Debit Card,MIAMI,Very Good
+O103,Emily Waltham,monica@email.com,2024-12-16,2024-12-20,Mouse,5,750,3750,UPI,Houston,Fair
+O004,Chandler Bing,monica@email.com,2024-02-25,,Monitor,1,750,750,Debit Card,chicago,
+O280,Chandler Bing,ross@email.com,2024-07-24,2024-07-31,Earphones,2,70,140,UPI,New York,Fair
+O062,Chandler Bing,chandler@email.com,2024-08-29,2024-09-01,Keyboard,3,70,210,Debit Card,SAN FRANCISCO,Excellent
+O231,Ross Geller,rachel@email.com,2024-10-12,,Monitor,5,750,3750,Credit Card,los angeles,Good
+O247,Ross Geller,john@email.com,2024-06-22,2024-07-02,Webcam,1,300,300,PayPal,miami,Very Good
+O240,Emily Waltham,gunther@email.com,2024-09-05,2024-09-13,Laptop,3,450,1350,Cash,los angeles,Check data
+O063,Ross Geller,jane@email.com,2024-12-28,2025-01-02,Earphones,5,300,1500,PayPal,San Francisco,
+O154,Joey Tribbiani,john@email.com,2024-09-10,2024-09-13,Mouse,5,70,350,Cash,new york,Fair
+O178,Monica Geller,gunther@email.com,2024-03-15,,Monitor,1,45,45,PayPal,Boston,Fair
+O088,Mike Ross,emily@email.com,2024-08-09,2024-08-11,Tablet,3,750,2250,PayPal,Houston,Good
+O094,Rachel Green,emily@email.com,2024-02-29,2024-03-09,Mouse,3,750,2250,credit card,houston,Fair
+O090,Gunther Central,john@email.com,2024-09-20,2024-09-26,Monitor,2,300,600,CASH,miami,Fair
+O062,Monica Geller,phoebe@email.com,2024-07-23,2024-07-27,Webcam,5,25,125,PayPal,HOUSTON,Poor
+O286,Chandler Bing,rachel@email.com,2024-02-11,2024-02-19,Laptop,4,70,280,PayPal,los angeles,Excellent
+O273,Rachel Green,mike@email.com,2024-12-01,2024-12-09,Laptop,5,70,350,Debit Card,SEATTLE,Good
+O062,Jane Doe,,2024-07-11,2024-07-15,Webcam,5,300,1500,Debit Card,san francisco,Excellent
+O149,Emily Waltham,john@email.com,2024-12-22,2024-12-30,Monitor,3,750,2250,UPI,SEATTLE,Check data
+O143,Ross Geller,chandler@email.com,2024-10-14,2024-10-20,Monitor,3,900,2700,Debit Card,san francisco,
+O101,Gunther Central,gunther@email.com,2024-12-13,2024-12-15,Earphones,4,70,280,debit card,SAN FRANCISCO,
+O129,Monica Geller,john@email.com,2024-03-09,2024-03-16,Laptop,1,120,120,Credit Card,Chicago,
+O254,Joey Tribbiani,gunther@email.com,2024-05-29,2024-06-01,Mouse,2,70,140,PayPal,los angeles,
+O116,Jane Doe,monica@email.com,2024-09-14,2024-09-18,Earphones,3,900,2700,debit card,Boston,Good
+O278,Ross Geller,john@email.com,2024-10-27,,Keyboard,1,900,900,upi,boston,Check data
+O053,Emily Waltham,chandler@email.com,2024-09-29,2024-10-03,Headphones,3,300,900,CASH,New York,
+O137,Jane Doe,ross@email.com,2024-12-09,2024-12-18,Earphones,1,70,70,Debit Card,Miami,Excellent
+O186,Emily Waltham,mike@email.com,2024-11-21,2024-11-25,Keyboard,5,750,3750,Cash,chicago,Excellent
+O262,Gunther Central,mike@email.com,2024-03-20,,Laptop,3,120,360,upi,San Francisco,
+O071,Gunther Central,gunther@email.com,2024-04-09,2024-04-16,Webcam,5,750,3750,debit card,Boston,Very Good
+O153,Monica Geller,rachel@email.com,2024-04-09,,Mouse,2,900,1800,Debit Card,SEATTLE,Fair
+O101,Phoebe Buffay,,2024-04-29,,Earphones,3,70,210,PayPal,boston,
+O106,Gunther Central,gunther@email.com,2024-05-08,2024-05-14,Tablet,3,25,75,Credit Card,los angeles,Excellent
+O027,Phoebe Buffay,emily@email.com,2024-07-15,2024-07-23,Earphones,1,900,900,Credit Card,San Francisco,Good
+O118,Jane Doe,jane@email.com,2024-04-05,2024-04-14,Keyboard,1,750,750,upi,san francisco,Fair
+O172,Monica Geller,phoebe@email.com,2024-05-22,2024-05-29,Tablet,1,900,900,credit card,NEW YORK,Fair
+O101,Ross Geller,,2024-11-07,2024-11-14,Mouse,1,70,70,Credit Card,san francisco,Very Good
+O162,Ross Geller,joey@email.com,2024-04-03,2024-04-07,Tablet,3,45,135,Debit Card,MIAMI,Excellent
+O294,John Doe,phoebe@email.com,2024-05-07,2024-05-16,Monitor,5,300,1500,Credit Card,San Francisco,
+O130,Monica Geller,rachel@email.com,2024-03-22,2024-03-30,Monitor,3,120,360,Debit Card,SAN FRANCISCO,Check data
+O009,John Doe,john@email.com,2024-06-17,2024-06-21,Webcam,1,900,900,upi,NEW YORK,Excellent
+O101,Jane Doe,jane@email.com,2024-12-31,2025-01-10,Keyboard,5,300,1500,credit card,LOS ANGELES,
+O082,John Doe,emily@email.com,2024-02-02,,Monitor,4,120,480,PayPal,Houston,
+O141,Rachel Green,emily@email.com,2024-10-27,2024-10-31,Laptop,1,120,120,Credit Card,new york,
+O049,Phoebe Buffay,emily@email.com,2024-12-16,2024-12-26,Monitor,3,70,210,Credit Card,San Francisco,Check data
+O205,Gunther Central,jane@email.com,2024-08-03,2024-08-07,Tablet,1,120,120,UPI,BOSTON,Good
+O083,Jane Doe,john@email.com,2024-06-19,2024-06-28,Earphones,3,45,135,Debit Card,MIAMI,
+O085,Joey Tribbiani,mike@email.com,2024-02-29,2024-03-08,Earphones,2,900,1800,debit card,Boston,
+O110,John Doe,mike@email.com,2024-06-26,2024-06-29,Webcam,1,45,45,Debit Card,miami,Fair
+O036,John Doe,ross@email.com,2024-09-06,2024-09-10,Earphones,4,45,180,Debit Card,CHICAGO,Excellent
+O068,Ross Geller,monica@email.com,2024-02-12,2024-02-14,Mouse,,45,,PayPal,los angeles,
+O032,Monica Geller,phoebe@email.com,2024-01-20,2024-01-23,Tablet,4,45,180,Credit Card,Houston,Poor
+O248,Emily Waltham,john@email.com,2024-11-21,2024-11-28,Tablet,4,25,100,CASH,chicago,
+O093,Chandler Bing,jane@email.com,2024-02-22,2024-02-27,Laptop,2,450,900,Debit Card,SAN FRANCISCO,Fair
+O128,Emily Waltham,ross@email.com,2024-05-13,2024-05-20,Headphones,,120,,upi,SAN FRANCISCO,Check data
+O223,Gunther Central,monica@email.com,2024-05-08,2024-05-16,Tablet,5,750,3750,credit card,miami,Fair
+O078,Joey Tribbiani,jane@email.com,2024-11-26,2024-11-30,Laptop,1,900,900,PayPal,San Francisco,Fair
+O293,Monica Geller,emily@email.com,2024-12-16,2024-12-24,Laptop,5,450,2250,debit card,boston,Good
+O285,John Doe,phoebe@email.com,2024-06-07,2024-06-13,Tablet,,70,,CASH,San Francisco,
+O044,Rachel Green,rachel@email.com,2024-09-01,,Mouse,2,70,140,Debit Card,HOUSTON,
+O202,Mike Ross,jane@email.com,2024-05-06,2024-05-08,Webcam,2,25,50,credit card,BOSTON,Very Good
+O171,Rachel Green,rachel@email.com,2024-09-23,2024-10-02,Headphones,4,750,3000,Debit Card,LOS ANGELES,Excellent
+O024,Chandler Bing,mike@email.com,2024-11-22,2024-11-27,Mouse,4,900,3600,Credit Card,HOUSTON,
+O114,Chandler Bing,rachel@email.com,2024-11-11,2024-11-15,Webcam,2,900,1800,PayPal,SAN FRANCISCO,
+O128,Chandler Bing,phoebe@email.com,2024-02-21,2024-02-28,Mouse,4,45,180,upi,BOSTON,
+O198,Chandler Bing,monica@email.com,2024-12-20,2024-12-25,Webcam,1,45,45,PayPal,chicago,
+O059,Chandler Bing,phoebe@email.com,2024-08-22,2024-08-26,Headphones,4,25,100,upi,Seattle,Poor
+O250,Jane Doe,emily@email.com,2024-11-30,2024-12-07,Laptop,3,120,360,UPI,LOS ANGELES,Check data
+O172,Chandler Bing,rachel@email.com,2024-09-03,2024-09-05,Headphones,5,120,600,Debit Card,Miami,Good
+O167,Emily Waltham,chandler@email.com,2024-06-17,2024-06-20,Webcam,3,25,75,PayPal,LOS ANGELES,
+O034,Ross Geller,john@email.com,2024-05-08,2024-05-17,Tablet,5,25,125,Debit Card,Miami,Fair
+O064,Mike Ross,ross@email.com,2024-11-29,2024-12-09,Monitor,4,300,1200,upi,miami,Good
+O095,Emily Waltham,mike@email.com,2024-11-18,,Webcam,2,45,90,UPI,San Francisco,Good
+O057,Monica Geller,ross@email.com,2024-04-21,2024-04-28,Monitor,1,45,45,upi,san francisco,Very Good
+O097,Mike Ross,joey@email.com,2024-07-03,2024-07-12,Headphones,5,750,3750,debit card,NEW YORK,Check data
+O072,Ross Geller,gunther@email.com,2024-01-19,,Webcam,5,70,350,CASH,MIAMI,
+O090,Ross Geller,phoebe@email.com,2024-04-27,2024-05-03,Mouse,1,450,450,UPI,Boston,
+O065,Chandler Bing,john@email.com,2024-03-14,2024-03-21,Tablet,1,450,450,Debit Card,Miami,Excellent
+O019,Jane Doe,ross@email.com,2024-03-31,2024-04-08,Tablet,1,25,25,credit card,Chicago,Fair
+O197,Rachel Green,chandler@email.com,2024-10-25,2024-11-03,Monitor,2,750,1500,Credit Card,miami,Good
+O099,John Doe,mike@email.com,2024-09-17,,Monitor,5,120,600,credit card,SEATTLE,
+O132,Mike Ross,monica@email.com,2024-06-22,2024-06-26,Webcam,4,120,480,credit card,Boston,Very Good
+O184,Ross Geller,phoebe@email.com,2024-06-23,2024-06-30,Earphones,1,300,300,Debit Card,SEATTLE,
+O253,Rachel Green,jane@email.com,2024-03-27,2024-04-01,Keyboard,4,25,100,Debit Card,SEATTLE,Very Good
+O133,Phoebe Buffay,ross@email.com,2024-02-27,2024-03-07,Keyboard,4,900,3600,Debit Card,Boston,Very Good
+O218,Monica Geller,mike@email.com,2024-02-15,2024-02-19,Earphones,3,45,135,CASH,chicago,Excellent
+O104,Chandler Bing,rachel@email.com,2024-12-02,2024-12-12,Headphones,1,900,900,Debit Card,San Francisco,Good
+O221,Chandler Bing,,2024-09-13,2024-09-15,Mouse,4,25,100,upi,HOUSTON,
+O267,Monica Geller,john@email.com,2024-04-12,2024-04-18,Webcam,1,70,70,Credit Card,Chicago,
+O256,John Doe,rachel@email.com,2024-06-01,2024-06-09,Monitor,3,900,2700,credit card,san francisco,Excellent
+O106,John Doe,monica@email.com,2024-03-20,2024-03-30,Headphones,4,25,100,CASH,los angeles,
+O269,Ross Geller,ross@email.com,2024-03-03,2024-03-09,Headphones,1,900,900,Debit Card,BOSTON,Excellent
+O298,Monica Geller,gunther@email.com,2024-05-26,2024-05-31,Headphones,3,300,900,Cash,HOUSTON,Fair
+O117,Joey Tribbiani,monica@email.com,2024-05-29,2024-06-05,Keyboard,2,450,900,CASH,LOS ANGELES,Very Good
+O068,Ross Geller,gunther@email.com,2024-05-27,2024-06-04,Headphones,5,300,1500,Debit Card,chicago,Very Good
+O154,Monica Geller,mike@email.com,2024-05-18,2024-05-23,Keyboard,4,120,480,UPI,New York,Check data
+O208,Rachel Green,jane@email.com,2024-08-23,2024-08-27,Mouse,3,900,2700,PayPal,HOUSTON,Very Good
+O245,Gunther Central,phoebe@email.com,2024-09-23,2024-09-29,Laptop,5,25,125,Debit Card,HOUSTON,Good
+O043,Emily Waltham,mike@email.com,2024-06-16,2024-06-18,Keyboard,5,70,350,debit card,Seattle,Fair
+O295,Ross Geller,jane@email.com,2024-07-01,2024-07-07,Tablet,5,750,3750,UPI,BOSTON,
+O227,Emily Waltham,ross@email.com,2024-05-22,2024-05-29,Keyboard,2,450,900,Cash,HOUSTON,Poor
+O270,Rachel Green,rachel@email.com,2024-01-03,,Keyboard,1,750,750,Credit Card,seattle,
+O196,Emily Waltham,chandler@email.com,2024-09-04,2024-09-11,Monitor,2,900,1800,PayPal,SAN FRANCISCO,Good
+O220,Chandler Bing,jane@email.com,2024-06-20,2024-06-22,Laptop,5,900,4500,debit card,chicago,Poor
+O006,Chandler Bing,phoebe@email.com,2024-08-13,2024-08-20,Keyboard,2,120,240,PayPal,SAN FRANCISCO,Excellent
+O081,Mike Ross,chandler@email.com,2024-05-08,2024-05-12,Laptop,3,25,75,UPI,CHICAGO,Very Good
+O001,Joey Tribbiani,ross@email.com,2024-08-16,2024-08-26,Headphones,2,900,1800,PayPal,miami,Excellent
+O164,Gunther Central,mike@email.com,2024-12-04,2024-12-12,Keyboard,2,300,600,UPI,NEW YORK,
+O226,Ross Geller,,2024-06-29,2024-07-04,Monitor,3,750,2250,Credit Card,new york,
+O120,Joey Tribbiani,gunther@email.com,2024-11-05,2024-11-14,Tablet,2,900,1800,CASH,los angeles,Good
+O296,Phoebe Buffay,phoebe@email.com,2024-02-27,2024-03-01,Laptop,3,450,1350,Debit Card,Chicago,Poor
+O159,Chandler Bing,phoebe@email.com,2024-01-28,2024-02-03,Tablet,3,70,210,credit card,CHICAGO,Poor
+O112,John Doe,jane@email.com,2024-12-02,2024-12-04,Tablet,5,45,225,PayPal,Chicago,Check data
+O179,Mike Ross,emily@email.com,2024-08-27,2024-08-31,Earphones,5,300,1500,Debit Card,Los Angeles,Very Good
+O280,Jane Doe,mike@email.com,2024-11-23,2024-11-29,Webcam,1,45,45,PayPal,MIAMI,
+O279,Monica Geller,john@email.com,2024-10-26,2024-10-30,Laptop,1,450,450,CASH,SEATTLE,
+O237,Ross Geller,emily@email.com,2024-12-26,2024-12-29,Laptop,2,750,1500,credit card,new york,Good
+O292,Monica Geller,mike@email.com,2024-12-08,2024-12-17,Keyboard,5,300,1500,Debit Card,miami,Good
+O268,Rachel Green,emily@email.com,2024-05-31,2024-06-03,Tablet,5,120,600,credit card,Boston,Poor
+O066,Mike Ross,monica@email.com,2024-03-18,,Monitor,5,300,1500,UPI,San Francisco,Very Good
+O283,Chandler Bing,phoebe@email.com,2024-04-11,2024-04-21,Headphones,5,900,4500,credit card,san francisco,
+O037,Joey Tribbiani,john@email.com,2024-10-25,2024-10-27,Monitor,,25,,credit card,Los Angeles,Excellent
+O064,Ross Geller,ross@email.com,2024-01-04,2024-01-11,Monitor,1,25,25,credit card,HOUSTON,
+O192,Monica Geller,mike@email.com,2024-03-31,2024-04-02,Webcam,5,25,125,Credit Card,Houston,Good
+O096,Ross Geller,john@email.com,2024-05-25,,Headphones,,900,,Cash,san francisco,
+O162,Ross Geller,mike@email.com,2024-06-10,,Monitor,4,70,280,upi,CHICAGO,Fair
+O068,Emily Waltham,,2024-10-27,2024-11-01,Webcam,5,120,600,UPI,Houston,Good
+O022,Gunther Central,rachel@email.com,2024-07-26,2024-08-04,Keyboard,2,450,900,Credit Card,NEW YORK,Poor
+O255,Chandler Bing,joey@email.com,2024-03-22,2024-03-31,Earphones,5,70,350,debit card,new york,Good
+O052,Mike Ross,gunther@email.com,2024-04-30,2024-05-09,Mouse,4,300,1200,upi,chicago,Excellent
+O230,Emily Waltham,joey@email.com,2024-12-27,2024-12-30,Earphones,4,300,1200,Credit Card,Chicago,Good
+O188,Chandler Bing,jane@email.com,2024-06-09,2024-06-15,Headphones,2,900,1800,Credit Card,NEW YORK,Fair
+O043,Jane Doe,gunther@email.com,2024-03-24,2024-04-02,Keyboard,4,25,100,upi,Seattle,Poor
+O099,Emily Waltham,chandler@email.com,2024-08-06,2024-08-14,Keyboard,5,300,1500,CASH,Miami,Check data
+O257,Rachel Green,ross@email.com,2024-03-27,,Laptop,1,900,900,CASH,Miami,Good
+O107,Monica Geller,gunther@email.com,2024-02-24,2024-02-28,Keyboard,3,25,75,Debit Card,san francisco,
+O037,Gunther Central,mike@email.com,2024-07-31,2024-08-04,Mouse,5,750,3750,Credit Card,Miami,Good
+O152,Gunther Central,john@email.com,2024-03-08,,Headphones,4,900,3600,Cash,chicago,Check data
+O136,Ross Geller,joey@email.com,2024-05-09,,Monitor,2,450,900,PayPal,Seattle,
+O022,Chandler Bing,phoebe@email.com,2024-12-27,2025-01-03,Tablet,3,900,2700,Debit Card,BOSTON,
+O151,Rachel Green,john@email.com,2024-09-02,2024-09-06,Monitor,3,25,75,upi,Boston,Very Good
+O207,Rachel Green,rachel@email.com,2024-03-28,2024-04-02,Mouse,2,45,90,PayPal,Houston,Good
+O157,Jane Doe,gunther@email.com,2024-10-19,2024-10-26,Webcam,,45,,Debit Card,New York,Very Good
+O003,Phoebe Buffay,monica@email.com,2024-11-16,2024-11-26,Earphones,1,120,120,PayPal,seattle,Check data
+O260,Phoebe Buffay,,2024-10-03,2024-10-09,Webcam,2,70,140,Debit Card,SAN FRANCISCO,Very Good
+O086,Phoebe Buffay,john@email.com,2024-02-23,2024-03-02,Monitor,4,450,1800,PayPal,SAN FRANCISCO,
+O279,Phoebe Buffay,gunther@email.com,2024-05-09,2024-05-18,Webcam,5,120,600,UPI,miami,Poor
+O292,Mike Ross,gunther@email.com,2024-01-21,2024-01-26,Keyboard,2,750,1500,PayPal,san francisco,Poor
+O078,Rachel Green,rachel@email.com,2024-01-03,2024-01-06,Laptop,3,300,900,Cash,LOS ANGELES,Poor
+O112,Rachel Green,,2024-04-28,2024-05-02,Earphones,4,750,3000,debit card,SAN FRANCISCO,Excellent
+O052,Emily Waltham,phoebe@email.com,2024-10-22,2024-10-29,Mouse,1,25,25,debit card,Chicago,Check data
+O210,John Doe,emily@email.com,2024-10-19,2024-10-22,Webcam,2,70,140,Credit Card,BOSTON,
+O030,Rachel Green,rachel@email.com,2024-07-24,2024-08-01,Keyboard,2,120,240,UPI,New York,
+O249,Mike Ross,gunther@email.com,2024-07-18,2024-07-24,Headphones,1,120,120,Credit Card,seattle,Very Good
+O233,Phoebe Buffay,phoebe@email.com,2024-07-23,2024-07-31,Earphones,2,300,600,upi,boston,Check data
+O213,Gunther Central,joey@email.com,2024-05-23,2024-05-25,Monitor,3,900,2700,credit card,seattle,Excellent
+O183,Emily Waltham,emily@email.com,2024-03-20,2024-03-24,Webcam,2,45,90,upi,miami,Fair
+O151,Jane Doe,mike@email.com,2024-02-07,2024-02-14,Headphones,1,900,900,Cash,Seattle,Poor
+O232,Chandler Bing,mike@email.com,2024-06-29,,Laptop,3,300,900,Credit Card,MIAMI,Check data
+O101,Gunther Central,chandler@email.com,2024-06-03,2024-06-10,Mouse,5,750,3750,credit card,Chicago,Excellent
+O272,Rachel Green,,2024-05-14,2024-05-24,Laptop,3,900,2700,Credit Card,New York,
+O087,Emily Waltham,,2024-04-06,2024-04-11,Keyboard,,900,,PayPal,seattle,Fair
+O253,Joey Tribbiani,,2024-12-29,2025-01-06,Monitor,,70,,Credit Card,SEATTLE,Very Good
+O198,Chandler Bing,jane@email.com,2024-04-02,2024-04-04,Mouse,3,45,135,UPI,HOUSTON,Poor
+O217,Chandler Bing,jane@email.com,2024-06-22,2024-06-28,Headphones,1,25,25,PayPal,Miami,Very Good
+O165,Ross Geller,emily@email.com,2024-01-18,2024-01-25,Webcam,5,70,350,UPI,Chicago,
+O096,Phoebe Buffay,phoebe@email.com,2024-12-03,2024-12-12,Webcam,5,900,4500,Debit Card,Chicago,
+O201,Rachel Green,,2024-06-19,2024-06-27,Laptop,3,25,75,upi,Chicago,Fair
+O157,Emily Waltham,rachel@email.com,2024-11-21,2024-11-29,Headphones,5,120,600,Cash,MIAMI,
+O016,Phoebe Buffay,monica@email.com,2024-07-30,2024-08-03,Keyboard,5,120,600,Cash,MIAMI,
+O178,Ross Geller,phoebe@email.com,2024-02-28,2024-03-05,Earphones,2,25,50,upi,Seattle,
+O179,Rachel Green,ross@email.com,2024-07-05,2024-07-13,Earphones,5,450,2250,credit card,new york,Poor
+O118,Gunther Central,,2024-02-11,2024-02-19,Headphones,3,45,135,debit card,SEATTLE,Poor
+O173,John Doe,joey@email.com,2024-05-06,2024-05-16,Laptop,5,120,600,Credit Card,NEW YORK,
+O026,Gunther Central,rachel@email.com,2024-07-10,2024-07-12,Laptop,3,450,1350,Debit Card,BOSTON,Poor
+O266,Jane Doe,mike@email.com,2024-09-06,,Webcam,3,900,2700,debit card,MIAMI,Good
+O202,Monica Geller,rachel@email.com,2024-06-19,,Laptop,5,120,600,upi,San Francisco,Fair
+O021,Rachel Green,,2024-07-18,2024-07-24,Laptop,5,70,350,credit card,chicago,Fair
+O120,Ross Geller,monica@email.com,2024-11-19,2024-11-29,Laptop,2,750,1500,Credit Card,SAN FRANCISCO,
+O255,Joey Tribbiani,phoebe@email.com,2024-06-07,2024-06-11,Webcam,2,120,240,Cash,Seattle,
+O242,Jane Doe,emily@email.com,2024-08-19,2024-08-28,Webcam,3,450,1350,Debit Card,HOUSTON,Very Good
+O056,Ross Geller,mike@email.com,2024-07-03,2024-07-06,Earphones,2,45,90,debit card,san francisco,
+O290,Joey Tribbiani,joey@email.com,2024-02-28,,Laptop,4,45,180,Credit Card,Los Angeles,Excellent
+O139,Gunther Central,joey@email.com,2024-09-04,,Headphones,4,45,180,upi,san francisco,Excellent
+O115,John Doe,jane@email.com,2024-11-20,2024-11-30,Headphones,4,900,3600,upi,san francisco,
+O056,Phoebe Buffay,,2024-03-27,2024-03-29,Monitor,3,25,75,debit card,los angeles,
+O138,Rachel Green,,2024-02-26,2024-03-06,Mouse,5,750,3750,UPI,SAN FRANCISCO,
+O012,John Doe,gunther@email.com,2024-12-14,2024-12-16,Headphones,2,900,1800,Credit Card,new york,Good
+O074,Gunther Central,monica@email.com,2024-08-04,2024-08-08,Earphones,4,45,180,Cash,New York,Very Good
+O149,Chandler Bing,mike@email.com,2024-01-11,2024-01-13,Keyboard,5,450,2250,UPI,Seattle,
+O132,Gunther Central,,2024-01-08,2024-01-18,Headphones,1,900,900,PayPal,HOUSTON,Check data
+O144,Mike Ross,rachel@email.com,2024-06-17,2024-06-22,Headphones,1,450,450,debit card,san francisco,Excellent
+O171,Chandler Bing,chandler@email.com,2024-01-06,2024-01-13,Earphones,3,45,135,Cash,San Francisco,Check data
+O164,Mike Ross,rachel@email.com,2024-01-14,,Monitor,2,750,1500,Credit Card,CHICAGO,
+O105,Rachel Green,ross@email.com,2024-04-12,2024-04-16,Headphones,3,450,1350,Credit Card,Chicago,Excellent
+O240,Gunther Central,monica@email.com,2024-05-31,2024-06-07,Monitor,3,750,2250,debit card,SEATTLE,Check data
+O289,Jane Doe,gunther@email.com,2024-04-03,2024-04-11,Monitor,1,120,120,credit card,houston,Poor
+O105,Emily Waltham,gunther@email.com,2024-12-15,,Tablet,5,70,350,PayPal,MIAMI,
+O228,Mike Ross,jane@email.com,2024-07-19,2024-07-23,Monitor,1,750,750,CASH,NEW YORK,
+O200,Jane Doe,john@email.com,2024-07-28,2024-08-02,Headphones,1,750,750,Cash,Seattle,Very Good
+O134,Jane Doe,phoebe@email.com,2024-05-28,2024-05-31,Earphones,1,120,120,Debit Card,houston,Good
+O172,Gunther Central,jane@email.com,2024-04-12,2024-04-20,Earphones,4,750,3000,upi,SAN FRANCISCO,
+O023,John Doe,emily@email.com,2024-07-23,2024-07-29,Tablet,1,25,25,debit card,CHICAGO,
+O228,Phoebe Buffay,emily@email.com,2024-05-09,2024-05-13,Webcam,4,70,280,CASH,houston,
+O003,Emily Waltham,john@email.com,2024-12-01,2024-12-10,Earphones,2,70,140,UPI,los angeles,Very Good
+O128,Chandler Bing,emily@email.com,2024-08-30,2024-09-03,Webcam,3,450,1350,CASH,SAN FRANCISCO,Fair
+O081,Rachel Green,ross@email.com,2024-02-29,2024-03-08,Mouse,2,750,1500,UPI,CHICAGO,
+O259,John Doe,chandler@email.com,2024-08-06,2024-08-14,Mouse,1,900,900,debit card,miami,
+O195,Jane Doe,monica@email.com,2024-04-13,,Earphones,5,450,2250,Credit Card,Seattle,Good
+O176,Joey Tribbiani,joey@email.com,2024-10-25,2024-10-31,Headphones,,750,,upi,miami,Check data
+O293,Phoebe Buffay,jane@email.com,2024-10-02,2024-10-08,Laptop,5,45,225,PayPal,chicago,Fair
+O084,Phoebe Buffay,chandler@email.com,2024-09-14,2024-09-19,Headphones,4,300,1200,Credit Card,CHICAGO,
+O141,Chandler Bing,john@email.com,2024-11-14,2024-11-16,Keyboard,3,750,2250,Cash,Houston,
+O242,Phoebe Buffay,,2024-09-08,2024-09-10,Tablet,5,300,1500,UPI,New York,Check data
+O136,Mike Ross,john@email.com,2024-09-30,2024-10-06,Keyboard,2,70,140,CASH,Miami,
+O204,Phoebe Buffay,mike@email.com,2024-03-22,2024-03-25,Webcam,1,70,70,UPI,SEATTLE,Very Good
+O224,Gunther Central,joey@email.com,2024-07-03,2024-07-10,Keyboard,3,300,900,PayPal,miami,
+O133,Emily Waltham,chandler@email.com,2024-11-29,2024-12-01,Earphones,4,450,1800,Cash,MIAMI,Fair
+O126,Gunther Central,monica@email.com,2024-09-07,2024-09-11,Mouse,1,25,25,Cash,seattle,Good
+O063,John Doe,monica@email.com,2024-11-20,,Monitor,5,70,350,Credit Card,CHICAGO,Poor
+O141,Joey Tribbiani,mike@email.com,2024-11-14,2024-11-22,Keyboard,5,750,3750,Credit Card,san francisco,Check data
+O177,John Doe,,2024-06-20,2024-06-27,Webcam,4,120,480,CASH,Miami,
+O091,Emily Waltham,chandler@email.com,2024-01-15,2024-01-18,Keyboard,1,450,450,upi,SAN FRANCISCO,Poor
+O199,Emily Waltham,mike@email.com,2024-05-06,2024-05-12,Tablet,3,300,900,PayPal,new york,Check data
+O026,Mike Ross,john@email.com,2024-08-10,2024-08-18,Earphones,1,45,45,Debit Card,san francisco,Very Good
+O014,Chandler Bing,mike@email.com,2024-07-01,,Monitor,2,450,900,UPI,HOUSTON,Fair
+O298,Monica Geller,monica@email.com,2024-05-23,,Laptop,4,120,480,Debit Card,HOUSTON,
+O020,Rachel Green,monica@email.com,2024-08-07,2024-08-14,Mouse,1,70,70,Debit Card,SEATTLE,Check data
+O271,John Doe,chandler@email.com,2024-01-07,2024-01-15,Monitor,4,750,3000,credit card,NEW YORK,Excellent
+O137,Monica Geller,gunther@email.com,2024-10-06,2024-10-11,Webcam,5,120,600,Credit Card,Houston,Fair
+O043,Gunther Central,emily@email.com,2024-11-07,2024-11-16,Tablet,5,70,350,Credit Card,LOS ANGELES,Poor
+O179,Jane Doe,jane@email.com,2024-02-13,2024-02-16,Headphones,4,900,3600,UPI,SEATTLE,Good
+O200,Rachel Green,ross@email.com,2024-01-24,2024-02-03,Tablet,1,45,45,upi,MIAMI,Excellent
+O163,Jane Doe,mike@email.com,2024-10-31,2024-11-09,Laptop,4,70,280,upi,new york,Excellent
+O055,Joey Tribbiani,monica@email.com,2024-12-13,2024-12-23,Monitor,,300,,debit card,Seattle,Fair
+O242,Joey Tribbiani,jane@email.com,2024-05-27,2024-06-06,Tablet,3,300,900,Credit Card,HOUSTON,Good
+O061,Ross Geller,mike@email.com,2024-05-26,,Monitor,4,900,3600,Credit Card,Chicago,Good
+O109,Ross Geller,emily@email.com,2024-01-12,,Keyboard,2,25,50,upi,los angeles,Poor
+O114,Ross Geller,rachel@email.com,2024-06-01,2024-06-07,Mouse,,300,,upi,New York,
+O193,Joey Tribbiani,mike@email.com,2024-01-31,2024-02-08,Monitor,2,70,140,debit card,Houston,
+O025,Ross Geller,rachel@email.com,2024-12-23,2024-12-31,Earphones,2,750,1500,UPI,houston,Good
+O144,John Doe,monica@email.com,2024-10-07,2024-10-14,Headphones,1,750,750,UPI,houston,Poor
+O118,Phoebe Buffay,monica@email.com,2024-11-08,2024-11-17,Laptop,3,45,135,upi,Seattle,
+O011,Joey Tribbiani,gunther@email.com,2024-06-05,2024-06-13,Earphones,1,900,900,CASH,houston,Poor
+O151,Rachel Green,phoebe@email.com,2024-03-04,2024-03-10,Earphones,4,450,1800,CASH,BOSTON,Fair
+O177,Rachel Green,chandler@email.com,2024-04-19,2024-04-29,Monitor,5,70,350,upi,BOSTON,Poor
+O036,Phoebe Buffay,monica@email.com,2024-03-20,2024-03-23,Tablet,3,70,210,upi,houston,
+O080,Joey Tribbiani,ross@email.com,2024-02-08,,Mouse,4,120,480,PayPal,BOSTON,Check data
+O076,Monica Geller,ross@email.com,2024-09-12,2024-09-14,Webcam,4,120,480,UPI,SAN FRANCISCO,Fair
+O061,Ross Geller,john@email.com,2024-08-28,2024-09-07,Laptop,3,300,900,UPI,CHICAGO,
+O226,Jane Doe,mike@email.com,2024-07-05,2024-07-13,Keyboard,1,300,300,Credit Card,Los Angeles,Poor
+O252,Joey Tribbiani,mike@email.com,2024-12-28,2024-12-30,Monitor,1,120,120,Credit Card,SAN FRANCISCO,
+O284,Joey Tribbiani,,2024-01-08,2024-01-15,Earphones,2,900,1800,upi,Boston,Very Good
+O070,Phoebe Buffay,chandler@email.com,2024-11-17,2024-11-22,Tablet,3,900,2700,CASH,LOS ANGELES,
+O011,Rachel Green,john@email.com,2024-10-17,2024-10-25,Keyboard,4,300,1200,debit card,HOUSTON,
+O083,Phoebe Buffay,ross@email.com,2024-07-15,2024-07-20,Monitor,3,45,135,upi,Seattle,
+O172,Gunther Central,john@email.com,2024-02-23,2024-02-26,Earphones,1,750,750,PayPal,Los Angeles,Very Good
+O291,Joey Tribbiani,chandler@email.com,2024-10-27,2024-11-03,Mouse,1,70,70,debit card,Seattle,
+O195,Mike Ross,john@email.com,2024-07-31,,Keyboard,1,120,120,UPI,Seattle,
+O109,John Doe,emily@email.com,2024-07-22,2024-07-27,Monitor,2,900,1800,PayPal,chicago,
+O252,Monica Geller,joey@email.com,2024-07-08,2024-07-17,Mouse,5,300,1500,PayPal,LOS ANGELES,Poor
+O124,Ross Geller,chandler@email.com,2024-10-08,2024-10-16,Monitor,1,45,45,PayPal,Miami,
+O271,Rachel Green,chandler@email.com,2024-11-26,2024-12-02,Webcam,3,300,900,UPI,NEW YORK,Very Good
+O028,Joey Tribbiani,gunther@email.com,2024-08-02,2024-08-05,Mouse,3,70,210,Debit Card,San Francisco,
+O268,Monica Geller,gunther@email.com,2024-03-13,2024-03-15,Tablet,5,900,4500,CASH,new york,Very Good
+O043,Gunther Central,ross@email.com,2024-08-18,2024-08-20,Mouse,2,450,900,credit card,san francisco,
